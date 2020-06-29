@@ -9,6 +9,6 @@ Untuk Dependencies:
 ~ apt install figlet
 ~ git clone https://github.com/tazmaniandevilcyberteam/hash-md5/
 ~ cd hash-md5
-~ bash hajarbos.sh <md5 untuk di hash>
+~ bash hajarbos.sh "md5 yang mau di hash"
 # About TazManianDevil
 TazManianDevil adalah team untuk sharing bersama, mengenai ilmu dan pengalaman lain, didirikan tahun 2019 oleh DemonX dan para admin btw kalo mau recode izin dulu ya bos!
