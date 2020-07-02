@@ -11,4 +11,4 @@ Tools ini adalah tools dari team TazManianDevil Cyber Team, untuk hash md5 yang 
 7. cd hash-md5
 8. bash hajarbos.sh <md5 yang mau di hash>
 
-Coded By: DemonX
+Coded By: Lu tau lah :v
