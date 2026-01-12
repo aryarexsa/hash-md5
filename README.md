@@ -7,8 +7,8 @@ Tools ini adalah tools dari team TazManianDevil Cyber Team, untuk hash md5 yang 
 3. apt install lolcat
 4. apt install figlet
 5. apt install curl
-6. git clone https://github.com/tazmaniandevilcyberteam/hash-md5
+6. git clone https://github.com/aryarexsa/hash-md5
 7. cd hash-md5
 8. bash hajarbos.sh <md5 yang mau di hash>
 
-Coded By: Lu tau lah :v
+Coded By: Arya | DemonX
